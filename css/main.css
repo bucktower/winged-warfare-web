@@ -409,7 +409,11 @@ hr.line {
     left: 0;
     right: 0;
     width: 100%;
-    max-width: 440px;
+    max-width: 1000px;
+}
+
+#mc_embed_signup {
+  background: transparent;
 }
 
 
