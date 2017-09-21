@@ -127,7 +127,7 @@ a:hover, a:focus {
 }
 
 .btn-primary {
-  background-color:#70cbce;
+  background-color:#6C413D;
   color: #ffffff;
 }
 
@@ -203,7 +203,7 @@ a:hover, a:focus {
 }
 
 .blue {
-  color: #70cbce;
+  color: #6C413D;
 }
 
 .white {
@@ -215,7 +215,7 @@ a:hover, a:focus {
 }
 
 .blue-bg {
-  background: #70cbce;
+  background: #6C413D;
 }
 
 .white-bg {
@@ -234,7 +234,7 @@ a:hover, a:focus {
 
 .navbar {
     border: 0px solid rgba(0, 0, 0, 0);
-    background: #70cbce;
+    background: #6C413D;
     margin: auto;
     min-height: 60px;
     padding-top: 8px;
@@ -389,8 +389,8 @@ hr.line {
 }
 
 .blue {
-	border-color: #70cbce;
-	color: #70cbce
+	border-color: #6C413D;
+	color: #6C413D
 }
 
 .yellow {
@@ -462,7 +462,7 @@ footer {
 
 
 #pricing {
-  background: #70cbce;
+  background: #6C413D;
 }
 
 #my-icon {
@@ -568,7 +568,7 @@ footer {
 }
 
 .features.last a {
-	color: #70cbce;
+	color: #6C413D;
 	font-size: 14px;
 	letter-spacing: 1px;
 }
